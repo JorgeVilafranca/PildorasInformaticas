@@ -6,7 +6,7 @@ namespace PrimeraAplicacion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bienvenidos al curso de C#");
         }
     }
 }
